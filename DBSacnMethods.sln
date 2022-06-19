@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DBScan", "Application\DBScan.pyproj", "{876C382A-5226-4E20-A085-BEA39E9C2C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876C382A-5226-4E20-A085-BEA39E9C2C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876C382A-5226-4E20-A085-BEA39E9C2C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D67B8EC3-AAC3-4F86-AC8B-CB899A71CD34}
+	EndGlobalSection
+EndGlobal
